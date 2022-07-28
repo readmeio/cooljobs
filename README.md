@@ -1,7 +1,7 @@
 Come work at [ReadMe](https://readme.com/careers)!
 
 ```js
-const sdk = require('@readme/cooljobs');
+import sdk from '@readme/cooljobs';
 
 await sdk.weWantYou({
   name: 'Jon Ursenbach',
